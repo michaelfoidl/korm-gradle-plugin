@@ -62,7 +62,7 @@ dokka {
 dependencies {
     implementation gradleApi()
     implementation kotlin_core
-    implementation "at.michaelfoidl:korm:0.1"
+//    implementation "at.michaelfoidl:korm:0.1"
 }
 
 // Publishing
